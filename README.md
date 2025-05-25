@@ -1,4 +1,4 @@
-# Bidding-App
+# Bidding-Web
 
 This project is still under development, and a lot of work remains to be done.
 The primary purpose of this website is to allow users to sell any item they own through a bidding system.
